@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2081684-5874-4a73-82de-2dc7d2224785" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Øving4-UDP Pinger/UDPPingerClient.py" afterPath="$PROJECT_DIR$/Øving4-UDP Pinger/UDPPingerClient.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UDPPingerClient.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UDPPingerClient.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Øving4-UDP Pinger/UDPPingerClient.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -33,6 +32,16 @@
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,6 +57,7 @@
         <option value="$PROJECT_DIR$/Øving2-HTTPS sever/WebServer.py" />
         <option value="$PROJECT_DIR$/Øving2-HTTPS sever/test.html" />
         <option value="$PROJECT_DIR$/Øving4-UDP Pinger/UDPPingerClient.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -76,16 +86,6 @@
             <path>
               <item name="TTM4100-KTN" type="b2602c69:ProjectViewProjectNode" />
               <item name="TTM4100-KTN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTM4100-KTN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTM4100-KTN" type="462c0819:PsiDirectoryNode" />
-              <item name="Øving2-HTTPS sever" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTM4100-KTN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTM4100-KTN" type="462c0819:PsiDirectoryNode" />
-              <item name="Øving4-UDP Pinger" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,6 +235,14 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
